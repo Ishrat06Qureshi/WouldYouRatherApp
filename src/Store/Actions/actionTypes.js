@@ -1,0 +1,9 @@
+export const GET_USER  = "GET_USER";
+export const GET_QUESTIONS =" GET_QUESTIONS";
+export const SAVE_ANSWER  = "SAVE_ANSWER";
+export const SAVE_USER = "SAVE_USER";
+export const LOADING = "LOADING";
+export const AUTH_USER="AUTH_USER";
+export const LOGIN_STATUS = "LOGIN_STATUS";
+export const SAVE_QUESTION = "SAVE_QUESTION";
+export const SAVE_USERQUESTION = "SAVE_USERQUESTION";
